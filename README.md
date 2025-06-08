@@ -12,7 +12,8 @@ I focus on developing and deploying AI solutions using frameworks like TensorFlo
 - **Version Control:** Git, GitHub
 
 ## 🔬 Past Projects
-- **Waste Type Classification (Trasholution App):** [[Link to Repo]](https://github.com/rafaelmahesa/Trasholution-ML)
+- **Neural Network Based Alzheimer Disease Stages Classification:** [Link to Repo](https://github.com/rafaelmahesa/TA-Skripsi)
+- **Waste Type Classification (Trasholution App):** [Link to Repo](https://github.com/rafaelmahesa/Trasholution-ML)
 
 ## 🌱 I'm currently exploring...
 Generative AI and Transformer.
