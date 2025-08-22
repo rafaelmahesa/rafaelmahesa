@@ -20,3 +20,7 @@ Generative AI and Transformer.
 
 ## 📫 Let's Connect!
 - [LinkedIn Profile](https://www.linkedin.com/in/rafaelmahesa)
+
+## Google Cloud Skill Boost
+- [First Account](https://www.cloudskillsboost.google/public_profiles/79a1b930-501a-4103-b9c4-9c5ebc0ecce4)
+- [Second Account](https://www.cloudskillsboost.google/public_profiles/de4c1e2e-9f6c-44a9-8002-8022a6063225)
