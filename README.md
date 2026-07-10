@@ -22,5 +22,4 @@ Generative AI and Transformer.
 - [LinkedIn Profile](https://www.linkedin.com/in/rafaelmahesa)
 
 ## Google Cloud Skill Boost
-- [First Account](https://www.cloudskillsboost.google/public_profiles/79a1b930-501a-4103-b9c4-9c5ebc0ecce4)
-- [Second Account](https://www.cloudskillsboost.google/public_profiles/de4c1e2e-9f6c-44a9-8002-8022a6063225)
+- [Google Skills Account](https://www.skills.google/public_profiles/d669fef8-0f07-434f-b20d-b8bf32f2f068)
